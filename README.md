@@ -16,12 +16,4 @@ This repository contains SQL queries and mini-projects I've written for differen
   It includes random data inserts and analysis such as total flights per day, delay averages, on-time performance, and busiest routes.
 
 ---
-
-Thanks for visiting! ✨
-
-
-
-## 🔗 Contact
-
-
 Thanks for visiting! ✨
